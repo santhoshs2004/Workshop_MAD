@@ -283,7 +283,9 @@ public class MainActivity2 extends AppCompatActivity {
 ## OUTPUT
 
 ![workshop 1](https://github.com/user-attachments/assets/bfbb6bec-686f-44d2-9d5d-e2cc6b3cfe56)
-![MAD1](https://github.com/user-attachments/assets/2a31c35d-6a1f-4b09-87cd-8a75d265dba5)
+
+<img width="704" height="1472" alt="Gemini_Generated_Image_gw6tj9gw6tj9gw6t" src="https://github.com/user-attachments/assets/518b0448-9bf2-4a4c-8a1b-12c0190f1efd" />
+
 
 
 
